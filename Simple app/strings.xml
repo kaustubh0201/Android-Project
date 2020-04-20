@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="false_button">false</string>
+    <string name="true_button">true</string>
+    <string name="questions_button">Is the surface area of the sphere 4/3(pi)r^3 ? True or False ?</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+</resources>
